@@ -1,0 +1,19 @@
+# Data & datasets
+data/
+ex4/data/
+*.tar.gz
+*.zip
+
+# Models
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Images / outputs
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.pyc
