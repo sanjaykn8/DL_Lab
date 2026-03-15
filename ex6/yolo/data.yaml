@@ -1,7 +1,22 @@
-train: dataset/images/train
-val: dataset/images/val
-test: dataset/images/test
+path: data
 
-nc: 1
+train: images/train
+val: images/val
+test: images/test
+nc: 12
 
-names: ['debris']
+names:
+  [
+    "class0",
+    "class1",
+    "class2",
+    "class3",
+    "class4",
+    "class5",
+    "class6",
+    "class7",
+    "class8",
+    "class9",
+    "class10",
+    "class11"
+  ]

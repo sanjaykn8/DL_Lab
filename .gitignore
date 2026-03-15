@@ -1,6 +1,7 @@
 # Data & datasets
 data/
-ex4/data/
+yolov5/
+runs/
 *.tar.gz
 *.zip
 
