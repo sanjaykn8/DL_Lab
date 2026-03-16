@@ -2,6 +2,8 @@
 data/
 yolov5/
 runs/
+cow/
+ip102/
 *.tar.gz
 *.zip
 
