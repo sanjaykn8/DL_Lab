@@ -6,6 +6,7 @@ cow/
 ip102/
 *.tar.gz
 *.zip
+fake/
 
 # Models
 *.keras
