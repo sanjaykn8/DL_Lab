@@ -3,6 +3,7 @@ data/
 yolov5/
 runs/
 cow/
+logs/
 ip102/
 *.tar.gz
 *.zip
