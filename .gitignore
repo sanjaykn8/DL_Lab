@@ -8,6 +8,7 @@ ip102/
 *.tar.gz
 *.zip
 fake/
+stylegan2-ada-pytorch/
 
 # Models
 *.keras
